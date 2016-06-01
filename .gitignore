@@ -1,3 +1,3 @@
-*.pyc
-temp
-venv
+project/ENV
+project/.idea
+.idea
